@@ -6,7 +6,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sanketrai1&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanketrai1&layout=compact&card_width=320&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanketrai1&layout=compact&theme=transparent" />
 </a>
 
 ## Latest Post
