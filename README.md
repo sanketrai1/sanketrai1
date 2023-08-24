@@ -3,10 +3,10 @@
 👋 Hi there! I’m Sanket Rai, a Full-stack software engineer based in India. I’m interested in Distributed Systems and willing to contribute to projects at the intersection of Distributed Systems and emerging technologies like AI/ML, Blockchain, and Cybersecurity.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sanketrai1&show_icons=true&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sanketrai1&show_icons=true&theme=transparent&card_width=300" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanketrai1&layout=compact&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanketrai1&layout=compact&theme=transparent&card_width=300" />
 </a>
 
 ## Latest Post
