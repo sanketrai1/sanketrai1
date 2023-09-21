@@ -3,9 +3,6 @@
 👋 Hi there! I’m Sanket Rai, a Full-stack software engineer based in India. I’m interested in Distributed Systems and willing to contribute to projects at the intersection of Distributed Systems and emerging technologies like AI/ML, Blockchain, and Cybersecurity.
 
 <a href="https://github.com/sanketrai1/sanketrai1">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sanketrai1" />
-</a>
-<a href="https://github.com/sanketrai1/sanketrai1">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanketrai1&layout=compact&card_width=320" />
 </a>
 
